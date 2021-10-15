@@ -11,4 +11,4 @@ Pregunta a): Encontramos que el árbol no está balanceado, pues, debería tener
 
 Pregunta b) Como las llaves se distribuyen de forma uniforme, es decir, de un día en un día, entonces será más rápido utilizar tablas de Hash.
 
-Pregunta c) 
+Pregunta c) la función values del tad ordered map
